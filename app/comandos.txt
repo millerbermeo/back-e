@@ -1,0 +1,2 @@
+ARRANCAR PROYECTO
+uvicorn main:app --reload
